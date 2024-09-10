@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Xincheng (Cynthia)</h1>
-<h3 align="center">Passionate about Data Science, Machine Learning, Natural Language Processing</h3>
+<h1 align="left">Hi 👋, I'm Xincheng (Cynthia)</h1>
+<h3 align="left">Passionate about Data Science, Machine Learning, Natural Language Processing</h3>
 
 - 🔭 Recent Projects [BioNLP](https://github.com/Cyngua/BioLaySum-Project-2024); [Epitope Prediction using DL](https://github.com/Cyngua/Epitope_Prediction); [Hepatitis C Virus User Interface](https://github.com/Cyngua/HCV-Data-Dashboard)
 
