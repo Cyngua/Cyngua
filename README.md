@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <h1 align="left">Hi 👋, I'm Xincheng (Cynthia)</h1>
 <h3 align="left">Passionate about Data Science, Machine Learning, Natural Language Processing</h3>
 
-- 🔭 Recent Projects [BioNLP](https://github.com/Cyngua/BioLaySum-Project-2024); [Epitope Prediction using DL](https://github.com/Cyngua/Epitope_Prediction); [Hepatitis C Virus User Interface](https://github.com/Cyngua/HCV-Data-Dashboard)
+- 🔭 Recent Projects [Formula One Dashboard](https://github.com/Cyngua/Formula-One-Driver-Dashboard); [BioNLP](https://github.com/Cyngua/BioLaySum-Project-2024); [Epitope Prediction using DL](https://github.com/Cyngua/Epitope_Prediction); [Hepatitis C Virus User Interface](https://github.com/Cyngua/HCV-Data-Dashboard)
 
-- 🌱 I’m currently learning **Information Visualization, Bayesian Statistics, Spanish**
+- 🌱 I’m currently learning **Full-Stack Web Programming, Real-World Data Analysis, User-Centered Design, Spanish**
 
-- 🤔 Planning to develop skills in **Big Data Tools, CI/CD, Database Implementation**
+- 🤔 Developing skills in **Big Data Tools, CI/CD**
 
 <p align="left">
 </p>
