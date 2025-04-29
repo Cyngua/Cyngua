@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 <h1 align="left">Hi 👋, I'm Xincheng (Cynthia)</h1>
 <h3 align="left">Passionate about Data Science, Machine Learning, Natural Language Processing</h3>
 
-- 🔭 Recent Projects [Formula One Dashboard](https://github.com/Cyngua/Formula-One-Driver-Dashboard); [BioNLP](https://github.com/Cyngua/BioLaySum-Project-2024); [Epitope Prediction using DL](https://github.com/Cyngua/Epitope_Prediction); [Hepatitis C Virus User Interface](https://github.com/Cyngua/HCV-Data-Dashboard)
+- 🔭 Recent Projects
+  - Bio/Clinical NLP: [Ontology-based IE](https://github.com/Cyngua/Ontology-based-IE-on-HP), [BioNLP Lay Summary](https://github.com/Cyngua/BioLaySum-Project-2024);
+  - Deep Learning and Immunization: [Epitope Prediction using DL](https://github.com/Cyngua/Epitope_Prediction);
+  - ML Pipeline: [Type II Diabetes Prediction](https://github.com/Cyngua/Type-II-Diabetes-Prediction-using-ML-based-Methods);
+  - Data Dashboard with D3.js: [Formula One Dashboard](https://github.com/Cyngua/Formula-One-Driver-Dashboard).
 
 - 🌱 I’m currently learning **Full-Stack Web Programming, Real-World Data Analysis, User-Centered Design, Spanish**
 
