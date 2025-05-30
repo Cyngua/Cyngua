@@ -3,13 +3,10 @@
 -->
 
 <h1 align="left">Hi 👋, I'm Cynthia</h1>
-<h3 align="left">Data Scientist | NLP | Biomedical AI | Data Analytics</h3>
-
----
 
 **About Me**
 
-I am a Master’s student in Health Informatics at Yale University, with a strong focus on data science, clinical NLP, and machine learning. I enjoy building real-world analytics solutions across, **but not limited to**, healthcare domains.
+I am a Master’s student in Health Informatics at Yale University, with a strong focus on data science, clinical NLP, and machine learning. I enjoy building real-world analytics solutions across, *but not limited to*, healthcare domains.
 
 ---
 
@@ -28,27 +25,4 @@ I am a Master’s student in Health Informatics at Yale University, with a stron
 - Multi-Modal Clinical Prediction (MCP)
 - MLOps & Production ML
 - Full-Stack Web Development
-
----
-
-**Tech Stack**
-
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/></a>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="Apache Spark" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-</p>
-
----
-
-📫 **Contact**
-
-- 📧 Email: cynthia-cai@outlook.com  
-- 💼 [LinkedIn](http://linkedin.com/in/xincheng-cai-5342b8208)  
-- 🌐 [Portfolio](https://cyngua.github.io)  
-- 💻 [GitHub](https://github.com/Cyngua)
 
