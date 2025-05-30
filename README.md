@@ -2,7 +2,7 @@
 **Cyngua/Cyngua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="left">Hi 👋, I'm Xincheng (Cynthia) Cai</h1>
+<h1 align="left">Hi 👋, I'm Cynthia</h1>
 <h3 align="left">Data Scientist | NLP | Biomedical AI | Data Analytics</h3>
 
 ---
