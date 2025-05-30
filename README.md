@@ -12,7 +12,7 @@ I am a Master’s student in Health Informatics at Yale University, with a stron
 
 **Selected Projects**
 
-- **Web4Me: AI-Powered Personal Website Builder:** [Web4Me](https://web4me.org) - AI-driven platform helping job seekers generate portfolio websites from resumes.
+- **Web4Me: AI-Powered Personal Website Builder:** [Web4Me](https://web4me.org) — AI-driven platform helping job seekers generate portfolio websites from resumes.
 - **Clinical NLP (Ontology-Based):** [Clinical Entity Recognition](https://github.com/Cyngua/Ontology-based-IE-on-HP) — Extracting SNOMED-CT semantic groups from clinical notes using ClinicalBERT + CRF.
 - **LLM-powered Metadata Extraction:** [LLM for Neuroscience Code](https://github.com/tessa2k/CodeAnalysis) — Automated tagging of neuroscience code repositories using rule-based and LLM methods.
 - **Deep Learning for Immunology:** [Epitope Prediction](https://github.com/Cyngua/Epitope_Prediction) — Transformer-based DL model predicting immunogenicity of SLE-related epitopes.
@@ -21,8 +21,7 @@ I am a Master’s student in Health Informatics at Yale University, with a stron
 
 **Currently Exploring**
 
-- LLM Agents & Autonomous Workflows
-- Multi-Modal Clinical Prediction (MCP)
 - MLOps & Production ML
+- Model Context Protocol (MCP)
 - Full-Stack Web Development
 
