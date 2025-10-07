@@ -6,7 +6,7 @@
 
 **About Me**
 
-I am a Master’s student in Health Informatics at Yale University, with a strong focus on data science, clinical NLP, and machine learning. I enjoy building real-world analytics solutions across, *but not limited to*, healthcare domains.
+I am a Master’s student in Health Informatics at Yale University, with a strong focus on data science, NLP, and machine learning. I enjoy building real-world analytics solutions across, *but not limited to*, healthcare domains.
 
 ---
 
@@ -19,9 +19,9 @@ I am a Master’s student in Health Informatics at Yale University, with a stron
 
 ---
 
-**Currently Exploring**
+**Ongoing Projects/Learning ...**
 
-- MLOps & Production ML
-- Model Context Protocol (MCP)
-- Full-Stack Web Development
+- AI Orchestrated Healthcare Research Tracker
+  - Database development, data curation, streamlit app, LLM Q&A, orchestration workflow design
+- Databricks Advanced Machine Learning Operations
 
